@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: taotao-search
+Bundle-SymbolicName: taotao-search
+Bundle-Version: 1.0.0.qualifier
+Export-Package: com.taotao.search.controller,
+ com.taotao.search.mapper,
+ com.taotao.search.pojo,
+ com.taotao.search.service,
+ com.taotao.search.service.impl,
+ com.taotao.solrj
